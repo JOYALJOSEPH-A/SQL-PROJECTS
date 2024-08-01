@@ -1,4 +1,5 @@
 Analysis of Sales Data for Product and Customer Insights
+
 Problem Statement: Analyzing customer purchasing behavior,product performance, and regional sales trends for various products.
 
 Solution: Conducted detailed analysis to uncover key insights, such as top-selling products, regional differences in sales,
